@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-17T11:30:48Z" name="INOUTTEK SUITE" finished-at="2025-05-17T11:30:49Z" duration-ms="1485">
+    <groups>
+    </groups>
+    <test started-at="2025-05-17T11:30:48Z" name="VERIFY CONTACT_BUTTON" finished-at="2025-05-17T11:30:49Z" duration-ms="904">
+      <class name="testCases.Test_Contact_Details">
+        <test-method signature="checkContactButton()[pri:0, instance:testCases.Test_Contact_Details@3eb7fc54]" started-at="2025-05-17T17:00:48Z" name="checkContactButton" finished-at="2025-05-17T17:00:49Z" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContactButton -->
+      </class> <!-- testCases.Test_Contact_Details -->
+    </test> <!-- VERIFY CONTACT_BUTTON -->
+    <test started-at="2025-05-17T11:30:49Z" name="VERIFY SERVICES" finished-at="2025-05-17T11:30:49Z" duration-ms="491">
+      <class name="testCases.Test_Services">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testCases.Test_Services@3c419631]" started-at="2025-05-17T17:00:39Z" name="launchBrowser" finished-at="2025-05-17T17:00:48Z" duration-ms="8733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyServices()[pri:0, instance:testCases.Test_Services@3c419631]" started-at="2025-05-17T17:00:49Z" name="verifyServices" finished-at="2025-05-17T17:00:49Z" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyServices -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Test_Services@3c419631]" started-at="2025-05-17T17:00:49Z" name="tearDown" finished-at="2025-05-17T17:00:50Z" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Test_Services -->
+    </test> <!-- VERIFY SERVICES -->
+  </suite> <!-- INOUTTEK SUITE -->
+</testng-results>

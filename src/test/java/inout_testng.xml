@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="INOUTTEK SUITE" verbose="2">
+	<test name="VERIFY CONTACT_BUTTON">
+		<classes>
+			<class name="testCases.Test_Contact_Details" />
+		</classes>
+	</test>
+
+
+	<test name="VERIFY SERVICES">
+		<classes>
+			<class name="testCases.Test_Services" />
+		</classes>
+	</test>
+</suite>

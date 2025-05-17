@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [INOUT TEK SUITE]" guice-stage="DEVELOPMENT">
+  <test name="Check Contact and Verifying Devops as a servises Test Cases(failed)">
+    <classes>
+      <class name="testCases.Test_DropdownButton">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyDropdown"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- testCases.Test_DropdownButton -->
+    </classes>
+  </test> <!-- Check Contact and Verifying Devops as a servises Test Cases(failed) -->
+</suite> <!-- Failed suite [INOUT TEK SUITE] -->
